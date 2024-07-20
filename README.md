@@ -1,6 +1,6 @@
 # Hey, I'm Mushkir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-I'm a Passionate Web Developer from Sri Lanka. I like to work with PHP and NodeJS.
+I'm a Passionate Web Developer from Sri Lanka. I like to work with Laravel (PHP) and NodeJS.
 
 [![Github](https://img.shields.io/github/followers/Mushkir?label=Follow&style=social)](https://github.com/Mushkir)
 ![](https://komarev.com/ghpvc/?username=Mushkir&color=green)
